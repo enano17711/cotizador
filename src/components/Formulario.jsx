@@ -4,7 +4,6 @@ import useCotizador from '../hooks/useCotizador.jsx'
 
 const Formulario = () => {
     const { datos, handleChange } = useCotizador()
-
     return (
         <>
             <form>
